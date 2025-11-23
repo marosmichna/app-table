@@ -4,7 +4,7 @@ import AppRouter from './router'
 function App() {
 
   return (
-    <div className='font-lato'>
+    <div>
     <AppRouter />
     </div>
   )

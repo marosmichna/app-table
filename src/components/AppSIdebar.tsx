@@ -6,7 +6,7 @@ export default function AppSidebar() {
   const location = useLocation();
 
   return (
-    <Sidebar className="h-screen w-64 bg-gray-50 border-r border-gray-200">
+    <Sidebar className="h-screen w-64 bg-gray-300 border-r border-gray-200">
         <SidebarHeader className="p-4">
             <div className="flex items-center space-x-3">
                 <Avatar className="w-10 h-10 rounded-md bg-white ring-2 ring-gray-200 items-center justify-center">
